@@ -1,16 +1,14 @@
 # news_app_clean_architecture
 
-A new Flutter project.
+ini adalah aplikasi news app menggunakan flutter dengan mengimplementasikan clean architecture
+![clean_arch](https://blog.cleancoder.com/uncle-bob/images/2012-08-13-the-clean-architecture/CleanArchitecture.jpg)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+-  install dependensi
+   `flutter pub get`
 
-A few resources to get you started if this is your first Flutter project:
+- Jalankan aplikasi
+  `flutter run -d <sesuaikan dengan device anda>`
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
